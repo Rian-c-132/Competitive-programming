@@ -1,5 +1,5 @@
+//C - Gerald and Giant Chess
 #include<bits/stdc++.h>
-
 #define pii pair<int, int>
 const int mod = 1e9 + 7;
 const int N = 2e3 + 5;
